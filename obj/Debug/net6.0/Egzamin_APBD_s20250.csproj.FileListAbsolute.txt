@@ -1,0 +1,5 @@
+/Users/magdalena/Documents/GitHub/APBD2023/Egzamin_APBD_s20250/Egzamin_APBD_s20250/obj/Debug/net6.0/Egzamin_APBD_s20250.csproj.AssemblyReference.cache
+/Users/magdalena/Documents/GitHub/APBD2023/Egzamin_APBD_s20250/Egzamin_APBD_s20250/obj/Debug/net6.0/Egzamin_APBD_s20250.GeneratedMSBuildEditorConfig.editorconfig
+/Users/magdalena/Documents/GitHub/APBD2023/Egzamin_APBD_s20250/Egzamin_APBD_s20250/obj/Debug/net6.0/Egzamin_APBD_s20250.AssemblyInfoInputs.cache
+/Users/magdalena/Documents/GitHub/APBD2023/Egzamin_APBD_s20250/Egzamin_APBD_s20250/obj/Debug/net6.0/Egzamin_APBD_s20250.AssemblyInfo.cs
+/Users/magdalena/Documents/GitHub/APBD2023/Egzamin_APBD_s20250/Egzamin_APBD_s20250/obj/Debug/net6.0/Egzamin_APBD_s20250.csproj.CoreCompileInputs.cache
